@@ -1,0 +1,50 @@
+
+.box{
+    background: blue;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: -6px;
+    font-family: Tahoma; 
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    color: azure;
+}
+.box2{
+    display: flex;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 60px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+h1{
+    padding-top: 75PX;
+    font-size: 50px;
+    color: coral;
+}
+p{
+    font-size: 20px;  
+}
+.box3{
+    display: flex;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 60px;
+    font-family: sans-serif;
+    font-size: 17px;
+    
+}
+img{
+    height: 400px;
+    width: 600px;
+    padding-left: 27%;
+
+
+}
